@@ -1,5 +1,5 @@
 # MusicPlayer using python  
-Firstly Need to install pygame & tkinter and some music from anywhere
+Firstly Need to install pygame,tkinter and some music from anywhere
 # #pip install pygame 
 # #pip install tkinter 
 
