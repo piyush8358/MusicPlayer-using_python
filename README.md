@@ -32,3 +32,7 @@ Refernce :
 https://data-flair.training/blogs/python-mp3-player/
 
 https://www.studytonight.com/tkinter/music-player-application-using-tkinter
+
+# Demo Video of MusicPlayer :
+https://user-images.githubusercontent.com/96904569/152142750-d6a2c173-f99e-448e-b5f9-82284e15286e.mp4
+
